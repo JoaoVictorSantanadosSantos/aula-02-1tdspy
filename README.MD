@@ -14,4 +14,11 @@ CRIE UM COMMIT DA SEÇÃO "INFORMAÇÃO"
 
 - 🛠️ Experimentos com código
  
+
+
+## 🌱 Tecnologias que estou aprendendo:
  
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
